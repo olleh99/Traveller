@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(claude-code --version)",
+      "Bash(claude:*)",
+      "Bash(mcp list:*)"
+    ],
+    "deny": []
+  }
+}

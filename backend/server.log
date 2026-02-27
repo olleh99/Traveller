@@ -1,0 +1,21 @@
+✓ Database connection established
+✓ Database tables synchronized
+📋 Created tables:
+  - companion_matches
+  - companion_messages
+  - companion_profiles
+  - destinations
+  - disability_profiles
+  - favorites
+  - matching_requests
+  - plan_days
+  - plan_destinations
+  - review_images
+  - reviews
+  - travel_plans
+  - users
+⏭️  Redis skipped (not required for basic functionality)
+✓ All connections initialized successfully
+Backend server is running on http://localhost:3000
+Environment: development
+::ffff:127.0.0.1 - - [01/Aug/2025:07:14:53 +0000] "GET /api/health HTTP/1.1" 200 99 "-" "curl/7.81.0"
